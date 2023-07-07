@@ -1,0 +1,22 @@
+{
+	"pattrstorage" : 	{
+		"name" : "u924003076",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"df.set_spat[2]::dummy" : [ 0 ],
+					"dfn.basicwf::df.modparam[1]::ext?" : [ 1.0 ],
+					"dfn.basicwf::df.modparam::ext?" : [ 1.0 ],
+					"dfn.basicwf::freq" : [ 0.0 ],
+					"dfn.basicwf::mode" : [ "sin" ],
+					"dfn.basicwf::width" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

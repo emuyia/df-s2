@@ -1,0 +1,38 @@
+{
+	"pattrstorage" : 	{
+		"name" : "u924003076",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"df.set_spat[2]::dummy" : [ 0 ],
+					"dfc.divisor2::df.modparam::ext?" : [ 0.0 ],
+					"dfc.divisor2::live.text[2]" : [ 1.0 ],
+					"dfc.divisor2::live.text[4]" : [ 0.0 ],
+					"dfc.divisor2::number" : [ 8.0 ],
+					"dfc.divisor2::toggle" : [ 1 ],
+					"dfc.divisor2::umenu" : [ 1 ],
+					"dfc.divisor2::umenu[1]" : [ 1 ],
+					"dfc.envf::df.modparamc::df.modparam::ext?" : [ 0.0 ],
+					"dfc.envf::df.modparamc[1]::df.modparam::ext?" : [ 0.0 ],
+					"dfc.envf::function" : [ 1.0, 0.0, 10.0, 0.000519478475893, 10.0, 0, 0.0, 1.000000423793799, 0.0, 0, 0.0, "curve" ],
+					"dfc.envf::number" : [ 1 ],
+					"dfc.envf::number[1]" : [ 0 ],
+					"dfc.envf::number[2]" : [ 0.0 ],
+					"dfc.seq2::live.step" : [ 1, 8, 0, 1, 12, 0, 8, 59.0, 80.0, 0, 0, 60, 101, 4, 48, 127, 63, 83, 4, 0, 127, 67, 57, 4, 0, 127, 74, 78, 4, 0, 127, 70, 35, 4, 0, 127, 67, 75, 4, 0, 127, 60, 114, 4, 0, 127, 70, 75, 4, 0, 127 ],
+					"dfc.seq2::multislider" : [ 0.161264523863792 ],
+					"dfc.seq2::number" : [ 32.0 ],
+					"dfc.seq2::number[1]" : [ 4.0 ],
+					"dfc.seq2::number[2]" : [ 8 ],
+					"dfc.seq2::number[6]" : [ 0 ],
+					"dfc.seq2::number[7]" : [ 0.0 ],
+					"dfc.seq2::toggle" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

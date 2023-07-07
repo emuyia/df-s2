@@ -1,0 +1,18 @@
+{
+	"pattrstorage" : 	{
+		"name" : "u924003076",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"button" : [  ],
+					"df.set_spat[2]::dummy" : [ 0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

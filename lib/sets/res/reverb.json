@@ -1,0 +1,27 @@
+{
+	"pattrstorage" : 	{
+		"name" : "u924003076",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"df.set_spat[2]::dummy" : [ 0 ],
+					"df.yafr2x2::live.dial" : [ 0.456692913385827 ],
+					"df.yafr2x2::live.dial[1]" : [ 0.118110236220474 ],
+					"df.yafr2x2::live.dial[2]" : [ 0.803149606299212 ],
+					"df.yafr2x2::live.dial[3]" : [ 0.04724409448819 ],
+					"df.yafr2x2::live.dial[4]" : [ 0.574803149606299 ],
+					"df.yafr2x2::df.modparam::ext?" : [ 0.0 ],
+					"df.yafr2x2::df.modparam[1]::ext?" : [ 0.0 ],
+					"df.yafr2x2::df.modparam[2]::ext?" : [ 0.0 ],
+					"df.yafr2x2::df.modparam[3]::ext?" : [ 0.0 ],
+					"df.yafr2x2::df.modparam[4]::ext?" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

@@ -1,0 +1,28 @@
+{
+	"pattrstorage" : 	{
+		"name" : "karplus1",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"live.gain~" : [ 0.0 ],
+					"df.set_spat[2]::dummy" : [ 0 ],
+					"df.control~::dfcontrol" : [ 0.0 ],
+					"df.control~[1]::dfcontrol" : [ 10.0 ],
+					"df.control~[2]::dfcontrol" : [ 0.0 ],
+					"dfc.envf::function" : [ 1.0, 0.0, 10.0, 0.000519478475893, 10.0, 0, 0.0, 1.000000423793799, 0.0, 0, 0.0, "curve" ],
+					"dfc.envf::number" : [ 1 ],
+					"dfc.envf::number[1]" : [ 0 ],
+					"dfc.envf::number[2]" : [ 0.0 ],
+					"dfc.envf::df.modparamc::df.modparam::ext?" : [ 0.0 ],
+					"dfc.envf::df.modparamc[1]::df.modparam::ext?" : [ 0.0 ],
+					"df.control~[3]::dfcontrol" : [ 1.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

@@ -1,0 +1,28 @@
+{
+	"pattrstorage" : 	{
+		"name" : "u228011107",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"live.gain~" : [  ],
+					"df.set_spat[2]::dummy" : [  ],
+					"df.control~::dfcontrol" : [  ],
+					"df.control~[1]::dfcontrol" : [  ],
+					"df.control~[2]::dfcontrol" : [  ],
+					"dfc.envf::function" : [  ],
+					"dfc.envf::number" : [  ],
+					"dfc.envf::number[1]" : [  ],
+					"dfc.envf::number[2]" : [  ],
+					"dfc.envf::df.modparamc::df.modparam::ext?" : [  ],
+					"dfc.envf::df.modparamc[1]::df.modparam::ext?" : [  ],
+					"df.control~[3]::dfcontrol" : [  ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

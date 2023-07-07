@@ -1,0 +1,26 @@
+{
+	"pattrstorage" : 	{
+		"name" : "u924003076",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"button" : [  ],
+					"df.set_spat[2]::dummy" : [ 0 ],
+					"dfc.seq2::live.step" : [  ],
+					"dfc.seq2::multislider" : [  ],
+					"dfc.seq2::number" : [  ],
+					"dfc.seq2::number[1]" : [  ],
+					"dfc.seq2::number[2]" : [  ],
+					"dfc.seq2::number[6]" : [  ],
+					"dfc.seq2::number[7]" : [  ],
+					"dfc.seq2::toggle" : [  ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

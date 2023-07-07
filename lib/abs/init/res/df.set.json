@@ -1,0 +1,45 @@
+{
+	"pattrstorage" : 	{
+		"name" : "df.set",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"live.gain~" : [ -5.280298725545876 ],
+					"live.gain~[1]" : [ -24.536082474226809 ],
+					"number" : [ 200.0 ],
+					"df.set_spat[2]::dummy" : [ 0 ],
+					"dfc.envf::function" : [ 1.0, 0.0, 10.0, 0.000519478475893, 10.0, 0, 0.0, 1.000000423793799, 0.0, 0, 0.0, "curve" ],
+					"dfc.envf::number" : [ 1 ],
+					"dfc.envf::number[1]" : [ 0 ],
+					"dfc.envf::number[2]" : [ 0.0 ],
+					"dfc.envf::df.modparamc::df.modparam::ext?" : [ 0.0 ],
+					"dfc.envf::df.modparamc[1]::df.modparam::ext?" : [ 0.0 ],
+					"dfc.envf[1]::function" : [ 1.0, 0.0, 10.0, 0.000519478475893, 10.0, 0, 0.0, 1.000000423793799, 0.0, 0, 0.0, "curve" ],
+					"dfc.envf[1]::number" : [ 1 ],
+					"dfc.envf[1]::number[1]" : [ 0 ],
+					"dfc.envf[1]::number[2]" : [ 0.0 ],
+					"dfc.envf[1]::df.modparamc::df.modparam::ext?" : [ 0.0 ],
+					"dfc.envf[1]::df.modparamc[1]::df.modparam::ext?" : [ 0.0 ],
+					"df.svfmod::button" : [ 0.0 ],
+					"df.svfmod::live.dial" : [ 22000.0 ],
+					"df.svfmod::live.dial[1]" : [ 0.0 ],
+					"df.svfmod::umenu" : [ 0 ],
+					"df.svfmod::df.modparam::ext?" : [ 0.0 ],
+					"df.svfmod::df.modparam[1]::ext?" : [ 0.0 ],
+					"dfc.envf[2]::function" : [ 1.0, 0.0, 10.0, 0.000519478475893, 10.0, 0, 0.0, 1.000000423793799, 0.0, 0, 0.0, "curve" ],
+					"dfc.envf[2]::number" : [ 1 ],
+					"dfc.envf[2]::number[1]" : [ 0 ],
+					"dfc.envf[2]::number[2]" : [ 0.0 ],
+					"dfc.envf[2]::df.modparamc::df.modparam::ext?" : [ 0.0 ],
+					"dfc.envf[2]::df.modparamc[1]::df.modparam::ext?" : [ 0.0 ],
+					"pl.box::param_name" : [ "kpitch" ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

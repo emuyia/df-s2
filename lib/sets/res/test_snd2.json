@@ -1,0 +1,20 @@
+{
+	"pattrstorage" : 	{
+		"name" : "test_snd2",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"df.set_spat[2]::dummy" : [ 0 ],
+					"pl.box::param_name" : [ "rot_tst2" ],
+					"pl.box[1]::param_name" : [ "pad_tst2" ],
+					"pl.box[2]::param_name" : [ "but_tst2" ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
